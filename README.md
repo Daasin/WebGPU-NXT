@@ -1,4 +1,4 @@
-# This repository is archived, upstream development is on [dawn.googlesource.com](dawn.googlesource.com)
+# Upstream development is on [dawn.googlesource.com](dawn.googlesource.com)
 
 # Dawn, a WebGPU implementation
 
