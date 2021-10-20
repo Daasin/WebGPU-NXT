@@ -59,8 +59,7 @@ Then use `ninja -C out/Release` to build dawn and for example `./out/Release/daw
 ## Contributing
 
 Please read and follow [CONTRIBUTING.md](/CONTRIBUTING.md).
-Dawn doesn't have a formal coding style yet, except what's defined by our clang format style.
-Overall try to use the same style and convention as code around your change.
+Dawn doesn't have a formal coding style yet
 
 
 ## Disclaimer
