@@ -1,6 +1,6 @@
 # Upstream development is on [dawn.googlesource.com](dawn.googlesource.com)
 
-# Dawn, a WebGPU implementation
+# DawnWeb 
 
 Dawn (formerly NXT) is an open-source and cross-platform implementation of the work-in-progress WebGPU standard.
 It exposes a C/C++ API that maps almost one-to-one to the WebGPU IDL and can be managed as part of a larger system such as a Web browser.
