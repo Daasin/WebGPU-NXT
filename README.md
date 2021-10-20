@@ -62,10 +62,12 @@ Please read and follow [CONTRIBUTING.md](/CONTRIBUTING.md).
 Dawn doesn't have a formal coding style yet, except what's defined by our clang format style.
 Overall try to use the same style and convention as code around your change.
 
+
+## Disclaimer
+
+This is not an officially supported product.
+
 ## License
 
 Please see [LICENSE](/LICENSE).
 
-## Disclaimer
-
-This is not an officially supported Google product.
